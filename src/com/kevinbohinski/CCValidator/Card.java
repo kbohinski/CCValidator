@@ -13,8 +13,6 @@
 /* Setting Package */
 package com.kevinbohinski.CCValidator;
 
-/* Setting Imports */
-
 public class Card {
 
 	/* Setting Vars */
